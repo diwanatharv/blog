@@ -1,0 +1,36 @@
+.footer-card-mobile{
+    margin: auto;
+    display: flex;
+ }
+ .footer-card-mobile-heading{
+     font-size: 20px;
+     width: 60vw;
+     margin-bottom: 15px;
+ }
+ .footer-card-mobile-heading div{
+     font-size: 15px;
+     color: lightgray;
+     margin-top: 10px;
+ }
+ .footer-card-mobile-img1{ 
+     background-image: url(../photos/monkey.webp);
+     width: 85px;
+     height: 85px;
+     background-size: cover;
+ }
+ .footer-card-mobile-img2{ 
+     background-image: url(../photos/sunflower.webp);
+     width: 85px;
+     height: 85px;
+     background-size: cover;
+ }.footer-card-mobile-img3{ 
+     background-image: url(../photos/tech3.webp);
+     width: 85px;
+     height: 85px;
+     background-size: cover;
+ }.footer-card-mobile-img4{ 
+     background-image: url(../photos/car1.webp);
+     width: 85px;
+     height: 85px;
+     background-size: cover;
+ }
